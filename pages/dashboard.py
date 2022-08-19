@@ -12,5 +12,3 @@ class Dashboard(BasePage):
     Reports_count_xpath = "//main/div[2]/div[3]/div/div[1]"
     Matches_count_xpath = "//main/div[2]/div[2]/div/div[1]"
     Events_count_xpath = "//div[1]/main/div[2]/div[4]/div/div[1]"
-
-
